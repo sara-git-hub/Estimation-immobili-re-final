@@ -30,6 +30,8 @@ Ce projet vise à prédire le prix des biens immobiliers (maisons/appartements) 
 
 │ └── estimation_immobiliere-SVR.ipynb # Modèle comparatif
 
+│ └── Test_modele.ipynb # Permet de tester notre modèle
+
 ├── model/
 
 │ └── model.pkl # Modèle sauvegardé (Gradient Boosting)
