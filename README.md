@@ -10,7 +10,7 @@ Ce projet vise à prédire le prix des biens immobiliers (maisons/appartements) 
 - Transformation log de la variable cible (prix)
 - Feature engineering et prétraitement des données
 - Comparaison de plusieurs modèles (Random Forest, SVR, Régression Linéaire)
-- Optimisation via GridSearchCV/RandomizedSearchCV
+- Optimisation via GridSearchCV
 
 ## 📂 Structure des Fichiers
 
